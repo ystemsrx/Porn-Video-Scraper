@@ -50,6 +50,8 @@ This script is designed to download and convert videos from the pornographic web
    ```sh
    python Porn-Video-Scraper.py
    ```
+## GUI Version
+This script also includes a GUI version for easier use. The GUI allows you to configure settings, start downloads, and monitor progress through a user-friendly interface. `python Porn-Video-Scraper-GUI.py`
 
 ## Functions
 
