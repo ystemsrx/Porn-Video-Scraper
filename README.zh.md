@@ -50,6 +50,8 @@
    ```sh
    python Porn-Video-Scraper.py
    ```
+## GUI 版本
+此脚本还包括一个GUI版本，以便更轻松地使用。GUI 允许您配置设置、开始下载并通过用户友好的界面监控进度。运行`Porn-Video-Scraper-GUI.py`
 
 ## 函数
 
