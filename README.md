@@ -46,7 +46,7 @@ This script is designed to download and convert videos from the pornographic web
 1. **Set Configuration**: Update the script with your desired configuration for keywords, download limit, and other settings.
 2. **Run the Script**:
    ```sh
-   python Spi.py
+   python Porn-Video-Scraper.py
    ```
 
 ## Functions
