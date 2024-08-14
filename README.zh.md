@@ -5,6 +5,8 @@
 ## 概述
 此脚本旨在从色情网站“jieav.com”下载和转换视频。它使用 Selenium 进行网页导航，使用 BeautifulSoup 进行 HTML 解析，并使用 FFmpeg 进行视频转换。脚本可以配置为搜索特定关键字、下载有限数量的视频，并处理 M3U8 和 MP4 视频格式。
 
+懒得看README的用户可以[在此](https://github.com/ystemsrx/Porn-Video-Scraper/releases)前往Releases下载可执行文件直接运行（Windows）。
+
 ## 特点
 - **网页抓取**：使用 Selenium 和 BeautifulSoup 进行网页导航和解析。
 - **视频下载**：支持下载 M3U8 和 MP4 视频格式。
