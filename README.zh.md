@@ -24,7 +24,7 @@
 ## 安装
 1. **克隆仓库**
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/ystemsrx/Porn-Video-Scraper.git
    cd VideoScraperDownloader
    ```
 
