@@ -55,29 +55,6 @@
 ## GUI 版本
 此脚本还包括一个GUI版本，以便更轻松地使用。GUI 允许您配置设置、开始下载并通过用户友好的界面监控进度。运行`Porn-Video-Scraper-GUI.py`
 
-## 函数
-
-### `download_and_convert_m3u8(url, output_file)`
-下载并将 M3U8 流转换为 MP4。
-
-### `get_m3u8_duration(url)`
-获取 M3U8 流的持续时间。
-
-### `parse_duration(line)`
-解析 FFmpeg 输出中的持续时间。
-
-### `process_page(driver, page_url, page_name, video_count, download_folder)`
-处理网页以查找并下载视频。
-
-### `download_file(url, file_name)`
-从给定 URL 下载文件。
-
-### `search_and_process(driver, search_word, video_count)`
-根据关键字搜索视频并处理结果。
-
-### `main()`
-初始化 Web 驱动程序并开始下载过程的主函数。
-
 ## 日志记录
 脚本使用 Python 的 `logging` 模块。日志级别设置为 `ERROR` 以最小化日志输出。根据需要调整日志级别以进行调试。
 
