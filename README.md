@@ -55,35 +55,6 @@ Users who are too lazy to read the README can [click here](https://github.com/ys
 ## GUI Version
 This script also includes a GUI version for easier use. The GUI allows you to configure settings, start downloads, and monitor progress through a user-friendly interface. Run `python Porn-Video-Scraper-GUI.py`.
 
-## Functions
-
-### `download_and_convert_m3u8(url, output_file)`
-Downloads and converts M3U8 streams to MP4.
-
-### `get_m3u8_duration(url)`
-Fetches the duration of an M3U8 stream.
-
-### `parse_duration(line)`
-Parses duration from FFmpeg output.
-
-### `process_page(driver, page_url, page_name, video_count, download_folder)`
-Processes a webpage to find and download videos.
-
-### `download_file(url, file_name)`
-Downloads a file from a given URL.
-
-### `search_and_process(driver, search_word, video_count)`
-Searches for videos based on a keyword and processes the results.
-
-### `main()`
-Main function that initializes the web driver and starts the download process.
-
-## Logging
-The script uses Python's `logging` module. Log level is set to `ERROR` to minimize log output. Adjust log level as needed for debugging.
-
-## VPN Requirement
-If you are accessing this script from mainland China, a VPN is required to reach the target website and download the videos.
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
