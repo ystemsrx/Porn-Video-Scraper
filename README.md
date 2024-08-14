@@ -5,6 +5,8 @@
 ## Overview
 This script is designed to download and convert videos from the pornographic website "jieav.com". It utilizes Selenium for web navigation, BeautifulSoup for HTML parsing, and FFmpeg for video conversion. The script can be configured to search for specific keywords, download a limited number of videos, and handle both M3U8 and MP4 video formats.
 
+Users who are too lazy to read the README can [click here](https://github.com/ystemsrx/Porn-Video-Scraper/releases) to go to the Releases section and download the executable file to run it directly (Windows).
+
 ## Features
 - **Web Scraping**: Uses Selenium and BeautifulSoup to navigate and parse HTML pages.
 - **Video Download**: Supports downloading both M3U8 and MP4 video formats.
