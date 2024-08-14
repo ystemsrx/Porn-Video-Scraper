@@ -1,4 +1,4 @@
-[简体中文](./README.zh.md)
+[中文](./README.zh.md)
 
 # Porn-Video-Scraper
 
