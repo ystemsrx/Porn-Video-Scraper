@@ -2,6 +2,8 @@
 
 # Porn-Video-Scraper
 
+**想看小说？**：使用我的小说抓取脚本[Porn Novel Scraper](https://github.com/ystemsrx/Porn-Novel-Scraper)
+
 ## Overview
 This script is designed to download and convert videos from the pornographic website "jieav.com". It utilizes Selenium for web navigation, BeautifulSoup for HTML parsing, and FFmpeg for video conversion. The script can be configured to search for specific keywords, download a limited number of videos, and handle both M3U8 and MP4 video formats.
 
