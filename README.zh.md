@@ -2,6 +2,8 @@
 
 # 色情视频抓取器
 
+**想看小说？**：使用我的小说抓取脚本[Porn Novel Scraper](https://github.com/ystemsrx/Porn-Novel-Scraper)
+
 ## 概述
 此脚本旨在从色情网站“jieav.com”下载和转换视频。它使用 Selenium 进行网页导航，使用 BeautifulSoup 进行 HTML 解析，并使用 FFmpeg 进行视频转换。脚本可以配置为搜索特定关键字、下载有限数量的视频，并处理 M3U8 和 MP4 视频格式。
 
